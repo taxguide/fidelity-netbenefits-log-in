@@ -1,119 +1,126 @@
-LifeLock.Norton.com: Complete Guide to Identity Protection, Features & Membership
-=================================================================================
-.. raw:: html
+# Fidelity NetBenefits Log In: Secure Account Access & Sign In Guide (2026)
 
-   <div style="text-align:center; margin:30px 0;">
-      <a href="https://nt.redircoms.com" target="_blank">
-         <img src="_static/login-button.png"
-              alt="Login to Norton"
-              style="width:760px; max-width:100%; height:auto; border:none; cursor:pointer;">
-      </a>
-   </div>
-   </center>
+**Fidelity NetBenefits** is the online workplace benefits portal provided by Fidelity Investments. Eligible employees and retirees can securely access retirement accounts, investment information, employer benefits, and account settings by signing in with their registered username and password.
 
-Identity theft and online fraud continue to evolve, making identity protection an important part of personal cybersecurity. LifeLock.Norton.com is the official website where you can explore LifeLock membership plans, enroll in identity protection services, monitor eligible personal information, and manage your account.
+What Is Fidelity NetBenefits?
+-----------------------------
 
-This guide explains what LifeLock.Norton.com offers, how to get started, its key features, and how to manage your membership.
+Fidelity NetBenefits is an online platform that helps eligible employees manage workplace retirement and benefit plans. Depending on your employer's program, you may be able to view retirement savings, update investment elections, monitor account performance, manage beneficiaries, and review important account documents.
 
-What Is LifeLock.Norton.com?
-----------------------------
+How to Log In to Your Fidelity NetBenefits Account
+--------------------------------------------------
 
-LifeLock.Norton.com is the official LifeLock website operated by Norton, where eligible users can purchase or manage LifeLock identity protection memberships. Depending on your membership, LifeLock helps monitor eligible personal information, provides alerts about potential identity-related risks, and offers identity restoration assistance if needed.
+Follow these simple steps:
 
-What Can You Do at LifeLock.Norton.com?
----------------------------------------
+1. Open your preferred web browser.
+2. Visit the official Fidelity NetBenefits website.
+3. Click **Log In**.
+4. Enter your username.
+5. Enter your password.
+6. Click **Log In** to access your account.
 
-* Browse available LifeLock membership plans.
-* Purchase or activate an eligible membership.
-* Sign in to your Norton account.
-* Manage your subscription and billing information.
-* Review available identity protection features.
-* Access Dark Web Monitoring tools (where included).
-* View alerts and account notifications.
-* Contact customer support and access help resources.
+After signing in successfully, your dashboard will display your available retirement plans, investments, balances, and workplace benefits.
 
-How to Get Started with LifeLock.Norton.com
--------------------------------------------
+Log In Using the Mobile App
+---------------------------
 
-#. Visit LifeLock.Norton.com.
-#. Sign in with your Norton account or create a new account.
-#. Choose a LifeLock membership that fits your needs or activate an eligible membership included with your Norton subscription.
-#. Complete the identity verification process if required.
-#. Finish your enrollment by accepting the membership terms.
-#. Configure your monitoring preferences.
-#. Review your dashboard to begin using your available identity protection features.
+You can also access your account using the official Fidelity Investments mobile app.
 
-Key Features of LifeLock
-------------------------
+1. Download the Fidelity Investments app for Android or iPhone.
+2. Open the application.
+3. Tap **Log In**.
+4. Enter your username and password.
+5. Access your retirement accounts securely from your mobile device.
 
-Depending on your membership plan, available features may include:
-
-* Identity monitoring
-* Dark Web Monitoring
-* Credit monitoring on eligible plans
-* Identity theft alerts
-* Identity restoration specialists
-* Scam support and reimbursement benefits on eligible memberships
-* Credit and financial account alerts on supported plans
-* Secure online account management
-
-Why Choose LifeLock?
---------------------
-
-LifeLock provides several benefits for eligible members:
-
-* Continuous monitoring of eligible personal information.
-* Fast alerts when potential identity risks are detected.
-* Easy online account management.
-* Multiple membership options to meet different protection needs.
-* Identity restoration assistance if identity theft occurs.
-* Integration with Norton security products for broader digital protection.
-
-Common Login or Membership Issues
+Forgot Your Username or Password?
 ---------------------------------
 
-Unable to Sign In
-^^^^^^^^^^^^^^^^^
+If you cannot access your account:
 
-* Verify your Norton account credentials.
-* Reset your password if necessary.
+1. Select **Forgot Username or Password** on the sign-in page.
+2. Verify your identity using the requested information.
+3. Follow the recovery instructions.
+4. Reset your password or recover your username.
+5. Return to the login page and sign in again.
 
-Identity Verification Failed
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Common Fidelity NetBenefits Login Issues
+----------------------------------------
 
-* Confirm that your personal information matches your official records.
-* Complete any additional verification requested.
+### Incorrect Username or Password
 
-Membership Not Showing
-^^^^^^^^^^^^^^^^^^^^^^
+Carefully check your login credentials before signing in.
 
-* Ensure you're signed in with the Norton account associated with your subscription.
+### Account Locked
 
-Alerts Not Appearing
-^^^^^^^^^^^^^^^^^^^^
+Too many unsuccessful login attempts may temporarily lock your account. Wait a short time before trying again or complete the account recovery process.
 
-* Review your monitoring settings and allow time for eligible monitoring features to become active after enrollment.
+### Browser Issues
+
+If the login page isn't loading properly:
+
+- Clear your browser cache and cookies.
+- Restart your browser.
+- Try another supported browser.
+
+### Mobile App Problems
+
+Update the Fidelity Investments app to the latest version before signing in.
+
+### Verification Problems
+
+If additional identity verification is requested, follow the on-screen instructions and enter the verification code sent to your registered contact information.
+
+What Can You Do After Logging In?
+---------------------------------
+
+After signing in, eligible users may be able to:
+
+- View retirement account balances
+- Monitor 401(k) investments
+- Review account performance
+- Change contribution amounts
+- Update beneficiaries
+- Download statements and tax documents
+- View employer contributions
+- Manage workplace benefit information
+
+Available features depend on your employer's retirement plan.
+
+Keep Your Account Secure
+------------------------
+
+To help protect your account:
+
+- Use a strong, unique password.
+- Never share your login credentials.
+- Sign out after using shared computers.
+- Keep your contact information updated.
+- Review your account activity regularly.
 
 Frequently Asked Questions
 --------------------------
 
-**Is LifeLock.Norton.com the official website?**
+**How do I log in to Fidelity NetBenefits?**
 
-Yes. LifeLock.Norton.com is the official LifeLock website operated by Norton for identity protection memberships.
+Visit the official Fidelity NetBenefits website, click **Log In**, enter your username and password, and access your workplace benefits account.
 
-**Do I need a Norton account?**
+**Can I access Fidelity NetBenefits on my phone?**
 
-Yes. A Norton account is required to purchase, activate, or manage your LifeLock membership.
+Yes. The official Fidelity Investments mobile app allows eligible users to securely manage their accounts on Android and iPhone devices.
 
-**Does every Norton subscription include LifeLock?**
+**What should I do if I forgot my password?**
 
-No. LifeLock is included only with eligible Norton plans. Check your subscription details to confirm availability.
+Select **Forgot Username or Password** on the login page and follow the account recovery instructions.
 
-**Can I manage my membership online?**
+**Why isn't my Fidelity NetBenefits login working?**
 
-Yes. After signing in, you can manage your subscription, review alerts, update account information, and access available LifeLock services from your account dashboard.
+Common reasons include incorrect login credentials, browser cache issues, temporary account lock, outdated mobile app, or identity verification requirements.
+
+**Can I manage my 401(k) online?**
+
+Yes. Eligible users can view balances, monitor investments, update contributions, and review retirement plan information after signing in.
 
 Final Thoughts
 --------------
 
-LifeLock.Norton.com is the official destination for enrolling in and managing LifeLock identity protection. Whether you're activating an eligible membership, reviewing available monitoring features, or managing your subscription, the platform provides secure access to your identity protection services and account management tools. Features and benefits vary by membership level and availability.
+The **Fidelity NetBenefits Log In** portal provides secure access to your workplace retirement accounts and employee benefits. Whether you want to check your 401(k), monitor investments, review account statements, or update your retirement information, signing in gives you convenient access to your financial information from both desktop and mobile devices.
