@@ -1,7 +1,7 @@
 Fidelity NetBenefits Log In: Secure Account Access & Sign In Guide (2026)
 =========================================================================
 
-**Fidelity NetBenefits** is the online workplace benefits portal provided by Fidelity Investments. Eligible employees and retirees can securely access retirement accounts, investment information, employer benefits, and account settings by signing in with their registered username and password.
+**Fidelity NetBenefits** is the online workplace benefits portal provided by Fidelity Investments. Eligible employees and retirees can securely access retirement accounts, investment information, employer benefits, and account  settings by signing in with their registered username and password.
 
 What Is Fidelity NetBenefits?
 =============================
