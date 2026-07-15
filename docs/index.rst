@@ -103,29 +103,6 @@ To help protect your account:
 * Keep your contact information updated.
 * Review your account activity regularly.
 
-Frequently Asked Questions
-==========================
-
-**How do I log in to Fidelity NetBenefits?**
-
-Visit the official Fidelity NetBenefits website, click **Log In**, enter your username and password, and access your workplace benefits account.
-
-**Can I access Fidelity NetBenefits on my phone?**
-
-Yes. The official Fidelity Investments mobile app allows eligible users to securely manage their accounts on Android and iPhone devices.
-
-**What should I do if I forgot my password?**
-
-Select **Forgot Username or Password** on the login page and follow the account recovery instructions.
-
-**Why isn't my Fidelity NetBenefits login working?**
-
-Common reasons include incorrect login credentials, browser cache issues, temporary account lock, outdated mobile app, or identity verification requirements.
-
-**Can I manage my 401(k) online?**
-
-Yes. Eligible users can view balances, monitor investments, update contributions, and review retirement plan information after signing in.
-
 Final Thoughts
 ==============
 
