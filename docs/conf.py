@@ -1,13 +1,12 @@
-project = 'fidelity'
-author = 'fidelity'
-release = '1.0'
+project = "fidelity"
+author = "fidelity"
+release = "1.0"
 
 extensions = []
 
-templates_path = ['_templates']
-
+templates_path = ["_templates"]
 exclude_patterns = []
 
-html_theme = 'alabaster'
+html_theme = "alabaster"
 
-html_static_path = []
+html_static_path = ["_static"]
