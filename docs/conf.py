@@ -1,5 +1,5 @@
-project = 'Norton'
-author = 'Norton'
+project = 'fidelity'
+author = 'fidelity'
 release = '1.0'
 
 extensions = []
