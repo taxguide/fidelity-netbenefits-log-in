@@ -1,8 +1,3 @@
-.. toctree::
-   :maxdepth: 2
-
-   test-page
-
 Fidelity NetBenefits Log In: Secure Account Access & Sign In Guide (2026)
 =========================================================================
 .. image:: _static/login-button.png
@@ -116,3 +111,8 @@ Final Thoughts
 ==============
 
 The **Fidelity NetBenefits Log In** portal provides secure access to your workplace retirement accounts and employee benefits. Whether you want to check your 401(k), monitor investments, review account statements, or update your retirement information, signing in gives you convenient access to your financial information from both desktop and mobile devices.
+
+.. toctree::
+   :maxdepth: 2
+
+   test-page
