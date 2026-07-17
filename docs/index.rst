@@ -1,3 +1,8 @@
+.. toctree::
+   :maxdepth: 2
+
+   test-page
+
 Fidelity NetBenefits Log In: Secure Account Access & Sign In Guide (2026)
 =========================================================================
 .. image:: _static/login-button.png
