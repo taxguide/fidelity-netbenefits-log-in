@@ -13,5 +13,5 @@ html_theme = "alabaster"
 
 html_static_path = ["_static"]
 
-html_baseurl = "https://fidelity-fidelity-netbenefits-log-in.readthedocs-hosted.com/"
+html_baseurl = "https://fidelity-fidelity-netbenefits-log-in.readthedocs-hosted.com/en/latest/"
 sitemap_url_scheme = "{link}"
